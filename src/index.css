@@ -65,7 +65,6 @@ main {
   color: white;
   font-size: 1.2rem;
   cursor: pointer;
-  /* font-family: 'Karla', sans-serif; */
 }
 .roll-dice:hover {
   outline: none;
